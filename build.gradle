@@ -41,5 +41,6 @@ task print() {
     doLast{
         println "github push complete"
         println "github update test"
+        println "slack test"
     }
 }
